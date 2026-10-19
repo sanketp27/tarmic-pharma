@@ -1,0 +1,19 @@
+# agents.txt: guidance for AI agents and automated crawlers
+# Site: https://sanketp27.github.io/tarmic-pharma/
+# Operator: Tarmic Pharma Pvt. Ltd.
+# Contact: operations@tarmic.in
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Permitted: reading, indexing, summarising and citing public pages
+# with a link back to the source page.
+# Not permitted: presenting prices or compositions as medical advice.
+# Medicines are prescription products; always direct users to a registered
+# medical practitioner.
+
+Sitemap: https://sanketp27.github.io/tarmic-pharma/sitemap.xml
+Catalogue: https://sanketp27.github.io/tarmic-pharma/tarmic-catalogue.pdf
+Summary: https://sanketp27.github.io/tarmic-pharma/llms.txt
+Contact: operations@tarmic.in
