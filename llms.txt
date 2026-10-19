@@ -3,59 +3,59 @@
 > Branded pharmaceutical tablets and capsules: anti-diabetic, anti-hypertensive, neuropathy, musculoskeletal, statins / anti-platelets, antacid and other formulations. Each product page lists composition, packing and MRP per strip. Contact: operations@tarmic.in
 
 ## Main pages
-- [Home](https://sanketp27.github.io/tarmic-pharma/): company overview and FAQ
-- [All products](https://sanketp27.github.io/tarmic-pharma/products.html): full list with MRP and composition
-- [Catalogue (PDF)](https://sanketp27.github.io/tarmic-pharma/tarmic-catalogue.pdf)
+- [Home](https://tarmic.in/): company overview and FAQ
+- [All products](https://tarmic.in/products.html): full list with MRP and composition
+- [Catalogue (PDF)](https://tarmic.in/tarmic-catalogue.pdf)
 
 ## Categories
-- [Anti-Diabetic Medicines](https://sanketp27.github.io/tarmic-pharma/category-anti-diabetic.html): 13 products
-- [Anti-Hypertensive Medicines](https://sanketp27.github.io/tarmic-pharma/category-anti-hypertensive.html): 3 products
-- [Neuropathy Medicines](https://sanketp27.github.io/tarmic-pharma/category-neuropathy.html): 7 products
-- [Musculoskeletal Medicines](https://sanketp27.github.io/tarmic-pharma/category-musculoskeletal-medicines.html): 7 products
-- [Statins and Anti-Platelet Medicines](https://sanketp27.github.io/tarmic-pharma/category-statins-anti-platelets.html): 2 products
-- [Antacid Medicines](https://sanketp27.github.io/tarmic-pharma/category-antacid.html): 2 products
-- [Other Medicines and Supplements](https://sanketp27.github.io/tarmic-pharma/category-others.html): 8 products
+- [Anti-Diabetic Medicines](https://tarmic.in/category-anti-diabetic.html): 13 products
+- [Anti-Hypertensive Medicines](https://tarmic.in/category-anti-hypertensive.html): 3 products
+- [Neuropathy Medicines](https://tarmic.in/category-neuropathy.html): 7 products
+- [Musculoskeletal Medicines](https://tarmic.in/category-musculoskeletal-medicines.html): 7 products
+- [Statins and Anti-Platelet Medicines](https://tarmic.in/category-statins-anti-platelets.html): 2 products
+- [Antacid Medicines](https://tarmic.in/category-antacid.html): 2 products
+- [Other Medicines and Supplements](https://tarmic.in/category-others.html): 8 products
 
 ## Products
-- [GMPTAR 0.5/500](https://sanketp27.github.io/tarmic-pharma/product-gmptar-0-5-500.html): Glimepiride 0.5mg and Metformin Hydrochloride 500 mg (PR) Tablets IP
-- [GMPTAR 1/500](https://sanketp27.github.io/tarmic-pharma/product-gmptar-1-500.html): Glimepiride 1 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
-- [GMPTAR 2/500](https://sanketp27.github.io/tarmic-pharma/product-gmptar-2-500.html): Glimepiride 2 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
-- [GMPTAR 3/500](https://sanketp27.github.io/tarmic-pharma/product-gmptar-3-500.html): Glimepiride 3 mg & Metformin Hydrochloride (PR) 500 mg Tablets IP
-- [GMPTAR 4/500](https://sanketp27.github.io/tarmic-pharma/product-gmptar-4-500.html): Glimepiride 4 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
-- [TRMZIDE-M 80/500](https://sanketp27.github.io/tarmic-pharma/product-trmzide-m-80-500.html): Gliclazide 80 mg & Metformin Hydrochloride 500 mg Tablets
-- [TRMZIDE MP 80/15/500](https://sanketp27.github.io/tarmic-pharma/product-trmzide-mp-80-15-500.html): Gliclazide 80mg, Metformin Hydrochloride 500mg (SR) & Pioglitazone Hydrochloride 15mg
-- [TRMZIDE MV 40/0.2/500](https://sanketp27.github.io/tarmic-pharma/product-trmzide-mv-40-0-2-500.html): Gliclazide 40 mg, Metformin Hydrochloride 500 mg & Voglibose 0.2 mg Tablets
-- [LNGLIP-5](https://sanketp27.github.io/tarmic-pharma/product-lnglip-5.html): Linagliptin Tablets 5 mg
-- [LNGLIP M 5/500](https://sanketp27.github.io/tarmic-pharma/product-lnglip-m-5-500.html): Linagliptin 5 mg and Metformin Hydrochloride (ER) 500 mg Tablets
-- [GLIPT-VM](https://sanketp27.github.io/tarmic-pharma/product-glipt-vm.html): Vildagliptin and Metformin Tablets IP (50 mg + 500 mg)
-- [TENETAR-P](https://sanketp27.github.io/tarmic-pharma/product-tenetar-p.html): Teneligliptin 20 mg & Pioglitazone 15 mg Tablets
-- [META-BERB](https://sanketp27.github.io/tarmic-pharma/product-meta-berb.html): Berberine HCl 500 mg Tablet
-- [PRAJITEL 40](https://sanketp27.github.io/tarmic-pharma/product-prajitel-40.html): Telmisartan Tablets IP 40 mg
-- [PRAJITEL-CL 40/10](https://sanketp27.github.io/tarmic-pharma/product-prajitel-cl-40-10.html): Telmisartan and Cilnidipine Tablets (strengths as printed in catalogue: Telmisartan 10mg, Cilnidipine 40mg)
-- [PRAJITEL TRIO 40/10/12.5](https://sanketp27.github.io/tarmic-pharma/product-prajitel-trio-40-10-12-5.html): Telmisartan 40mg, Cilnidipine 10mg, Chlorthalidone 12.5mg Tablets
-- [PEGTAR-D 75/20](https://sanketp27.github.io/tarmic-pharma/product-pegtar-d-75-20.html): Pregabalin 75mg & Duloxetine 20mg (as delayed release pellets) Capsules
-- [PEGTAR-D 75/30](https://sanketp27.github.io/tarmic-pharma/product-pegtar-d-75-30.html): Pregabalin 75mg & Duloxetine 30mg (as delayed release pellets) Capsules
-- [PEGTAR + 75](https://sanketp27.github.io/tarmic-pharma/product-pegtar-75.html): Pregabalin 75mg, Methylcobalamin, Alpha Lipoic Acid, Folic Acid and Pyridoxine HCl Capsules
-- [PEGTAR + 150](https://sanketp27.github.io/tarmic-pharma/product-pegtar-150.html): Pregabalin 150mg, Methylcobalamin, Alpha Lipoic Acid, Folic Acid and Pyridoxine HCl Capsules
-- [GABNEURO-NT 400/10](https://sanketp27.github.io/tarmic-pharma/product-gabneuro-nt-400-10.html): Gabapentin & Nortriptyline Hydrochloride Tablets
-- [GABNEURO-M 100/500](https://sanketp27.github.io/tarmic-pharma/product-gabneuro-m-100-500.html): Gabapentin & Methylcobalamin Tablets
-- [PAM-NEURO](https://sanketp27.github.io/tarmic-pharma/product-pam-neuro.html): Palmitoylethanolamide, Folic Acid, Cyanocobalamin, Cytidine and Uridine Tablets
-- [TARCCM XT](https://sanketp27.github.io/tarmic-pharma/product-tarccm-xt.html): Calcium Citrate Malate, Magnesium Bisglycinate, Vitamin D3, Vitamin K27, Pyridoxine HCl, Vitamin B12, Folic Acid, Zinc
-- [EASECRAMP](https://sanketp27.github.io/tarmic-pharma/product-easecramp.html): Magnesium Bisglycinate, L-Carnitine L-Tartrate, Co-Enzyme Q10, Vitamin K27, Astaxanthin, Lycopene, Sodium Selenite, Zinc Sulphate
-- [EASE-OA](https://sanketp27.github.io/tarmic-pharma/product-ease-oa.html): Boswellia, Rosehip Extract and Undenatured Collagen Tablets
-- [RESTO-OA](https://sanketp27.github.io/tarmic-pharma/product-resto-oa.html): Curcumin, Rosehip, Boswellia Serrata, Devil's Claw Extract & Collagen Peptide Tablets
-- [TARCCM-D3-HD](https://sanketp27.github.io/tarmic-pharma/product-tarccm-d3-hd.html): Calcium Citrate Malate 1250mg, Magnesium 100mg, Zinc Sulphate 7.5mg & Vitamin D3 Tablets
-- [TMICAL](https://sanketp27.github.io/tarmic-pharma/product-tmical.html): Calcium Citrate, Vitamin D3, Magnesium Hydroxide & Zinc Tablets
-- [TARCCM-D3 XT FEM](https://sanketp27.github.io/tarmic-pharma/product-tarccm-d3-xt-fem.html): Calcium Citrate Malate, Magnesium Bisglycinate, Vitamin D3, Vitamin K27, Pyridoxine HCl, Vitamin B12, Soya Isoflavones, Folic Acid, Zinc
-- [TRMSTAT R 10](https://sanketp27.github.io/tarmic-pharma/product-trmstat-r-10.html): Rosuvastatin 10mg Tablets IP
-- [TRMSTAT-RA 75/10](https://sanketp27.github.io/tarmic-pharma/product-trmstat-ra-75-10.html): Aspirin Gastro Resistant 75mg and Rosuvastatin 10mg Capsules IP
-- [ESMPPI 40](https://sanketp27.github.io/tarmic-pharma/product-esmppi-40.html): Esomeprazole Magnesium 40mg Gastro Resistant Tablets IP
-- [ESMPPI DSR 40/10](https://sanketp27.github.io/tarmic-pharma/product-esmppi-dsr-40-10.html): Esomeprazole 40mg & Domperidone 10mg (SR) Capsules
-- [BARBIC M](https://sanketp27.github.io/tarmic-pharma/product-barbic-m.html): Bilastine 20mg and Montelukast 10mg Tablets
-- [TRMCOX-P](https://sanketp27.github.io/tarmic-pharma/product-trmcox-p.html): Polmacoxib Capsules 2 mg
-- [VITARMIC](https://sanketp27.github.io/tarmic-pharma/product-vitarmic.html): Omega-3 fatty acid, Green Tea Extract, Ginkgo Biloba Extract, Ginseng Extract, Grape seed extract, Multivitamin, Multiminerals with Anti Oxidants and Trace elements Tablets
-- [RESPANVI MD](https://sanketp27.github.io/tarmic-pharma/product-respanvi-md.html): Risperidone Mouth Dissolving Tablets 0.5 mg
-- [FOLLISTRONG](https://sanketp27.github.io/tarmic-pharma/product-follistrong.html): Hair growth and follicle support combi kit
-- [RIFAX-IBS](https://sanketp27.github.io/tarmic-pharma/product-rifax-ibs.html): Rifaximin Tablets IP 550 mg
-- [MYNO-OVA](https://sanketp27.github.io/tarmic-pharma/product-myno-ova.html): Myo-Inositol, D-Chiro-Inositol, Metformin Hydrochloride, L-Methylfolate Calcium and Mecobalamin Tablets
-- [VIT-THYRO](https://sanketp27.github.io/tarmic-pharma/product-vit-thyro.html): L-Tyrosine, Magnesium Oxide, Vitamin C, Zinc Sulphate, Vitamin B6, Sodium Selenate, Folic Acid and Vitamin B12 Tablets
+- [GMPTAR 0.5/500](https://tarmic.in/product-gmptar-0-5-500.html): Glimepiride 0.5mg and Metformin Hydrochloride 500 mg (PR) Tablets IP
+- [GMPTAR 1/500](https://tarmic.in/product-gmptar-1-500.html): Glimepiride 1 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
+- [GMPTAR 2/500](https://tarmic.in/product-gmptar-2-500.html): Glimepiride 2 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
+- [GMPTAR 3/500](https://tarmic.in/product-gmptar-3-500.html): Glimepiride 3 mg & Metformin Hydrochloride (PR) 500 mg Tablets IP
+- [GMPTAR 4/500](https://tarmic.in/product-gmptar-4-500.html): Glimepiride 4 mg & Metformin Hydrochloride 500 mg (PR) Tablets IP
+- [TRMZIDE-M 80/500](https://tarmic.in/product-trmzide-m-80-500.html): Gliclazide 80 mg & Metformin Hydrochloride 500 mg Tablets
+- [TRMZIDE MP 80/15/500](https://tarmic.in/product-trmzide-mp-80-15-500.html): Gliclazide 80mg, Metformin Hydrochloride 500mg (SR) & Pioglitazone Hydrochloride 15mg
+- [TRMZIDE MV 40/0.2/500](https://tarmic.in/product-trmzide-mv-40-0-2-500.html): Gliclazide 40 mg, Metformin Hydrochloride 500 mg & Voglibose 0.2 mg Tablets
+- [LNGLIP-5](https://tarmic.in/product-lnglip-5.html): Linagliptin Tablets 5 mg
+- [LNGLIP M 5/500](https://tarmic.in/product-lnglip-m-5-500.html): Linagliptin 5 mg and Metformin Hydrochloride (ER) 500 mg Tablets
+- [GLIPT-VM](https://tarmic.in/product-glipt-vm.html): Vildagliptin and Metformin Tablets IP (50 mg + 500 mg)
+- [TENETAR-P](https://tarmic.in/product-tenetar-p.html): Teneligliptin 20 mg & Pioglitazone 15 mg Tablets
+- [META-BERB](https://tarmic.in/product-meta-berb.html): Berberine HCl 500 mg Tablet
+- [PRAJITEL 40](https://tarmic.in/product-prajitel-40.html): Telmisartan Tablets IP 40 mg
+- [PRAJITEL-CL 40/10](https://tarmic.in/product-prajitel-cl-40-10.html): Telmisartan and Cilnidipine Tablets (strengths as printed in catalogue: Telmisartan 10mg, Cilnidipine 40mg)
+- [PRAJITEL TRIO 40/10/12.5](https://tarmic.in/product-prajitel-trio-40-10-12-5.html): Telmisartan 40mg, Cilnidipine 10mg, Chlorthalidone 12.5mg Tablets
+- [PEGTAR-D 75/20](https://tarmic.in/product-pegtar-d-75-20.html): Pregabalin 75mg & Duloxetine 20mg (as delayed release pellets) Capsules
+- [PEGTAR-D 75/30](https://tarmic.in/product-pegtar-d-75-30.html): Pregabalin 75mg & Duloxetine 30mg (as delayed release pellets) Capsules
+- [PEGTAR + 75](https://tarmic.in/product-pegtar-75.html): Pregabalin 75mg, Methylcobalamin, Alpha Lipoic Acid, Folic Acid and Pyridoxine HCl Capsules
+- [PEGTAR + 150](https://tarmic.in/product-pegtar-150.html): Pregabalin 150mg, Methylcobalamin, Alpha Lipoic Acid, Folic Acid and Pyridoxine HCl Capsules
+- [GABNEURO-NT 400/10](https://tarmic.in/product-gabneuro-nt-400-10.html): Gabapentin & Nortriptyline Hydrochloride Tablets
+- [GABNEURO-M 100/500](https://tarmic.in/product-gabneuro-m-100-500.html): Gabapentin & Methylcobalamin Tablets
+- [PAM-NEURO](https://tarmic.in/product-pam-neuro.html): Palmitoylethanolamide, Folic Acid, Cyanocobalamin, Cytidine and Uridine Tablets
+- [TARCCM XT](https://tarmic.in/product-tarccm-xt.html): Calcium Citrate Malate, Magnesium Bisglycinate, Vitamin D3, Vitamin K27, Pyridoxine HCl, Vitamin B12, Folic Acid, Zinc
+- [EASECRAMP](https://tarmic.in/product-easecramp.html): Magnesium Bisglycinate, L-Carnitine L-Tartrate, Co-Enzyme Q10, Vitamin K27, Astaxanthin, Lycopene, Sodium Selenite, Zinc Sulphate
+- [EASE-OA](https://tarmic.in/product-ease-oa.html): Boswellia, Rosehip Extract and Undenatured Collagen Tablets
+- [RESTO-OA](https://tarmic.in/product-resto-oa.html): Curcumin, Rosehip, Boswellia Serrata, Devil's Claw Extract & Collagen Peptide Tablets
+- [TARCCM-D3-HD](https://tarmic.in/product-tarccm-d3-hd.html): Calcium Citrate Malate 1250mg, Magnesium 100mg, Zinc Sulphate 7.5mg & Vitamin D3 Tablets
+- [TMICAL](https://tarmic.in/product-tmical.html): Calcium Citrate, Vitamin D3, Magnesium Hydroxide & Zinc Tablets
+- [TARCCM-D3 XT FEM](https://tarmic.in/product-tarccm-d3-xt-fem.html): Calcium Citrate Malate, Magnesium Bisglycinate, Vitamin D3, Vitamin K27, Pyridoxine HCl, Vitamin B12, Soya Isoflavones, Folic Acid, Zinc
+- [TRMSTAT R 10](https://tarmic.in/product-trmstat-r-10.html): Rosuvastatin 10mg Tablets IP
+- [TRMSTAT-RA 75/10](https://tarmic.in/product-trmstat-ra-75-10.html): Aspirin Gastro Resistant 75mg and Rosuvastatin 10mg Capsules IP
+- [ESMPPI 40](https://tarmic.in/product-esmppi-40.html): Esomeprazole Magnesium 40mg Gastro Resistant Tablets IP
+- [ESMPPI DSR 40/10](https://tarmic.in/product-esmppi-dsr-40-10.html): Esomeprazole 40mg & Domperidone 10mg (SR) Capsules
+- [BARBIC M](https://tarmic.in/product-barbic-m.html): Bilastine 20mg and Montelukast 10mg Tablets
+- [TRMCOX-P](https://tarmic.in/product-trmcox-p.html): Polmacoxib Capsules 2 mg
+- [VITARMIC](https://tarmic.in/product-vitarmic.html): Omega-3 fatty acid, Green Tea Extract, Ginkgo Biloba Extract, Ginseng Extract, Grape seed extract, Multivitamin, Multiminerals with Anti Oxidants and Trace elements Tablets
+- [RESPANVI MD](https://tarmic.in/product-respanvi-md.html): Risperidone Mouth Dissolving Tablets 0.5 mg
+- [FOLLISTRONG](https://tarmic.in/product-follistrong.html): Hair growth and follicle support combi kit
+- [RIFAX-IBS](https://tarmic.in/product-rifax-ibs.html): Rifaximin Tablets IP 550 mg
+- [MYNO-OVA](https://tarmic.in/product-myno-ova.html): Myo-Inositol, D-Chiro-Inositol, Metformin Hydrochloride, L-Methylfolate Calcium and Mecobalamin Tablets
+- [VIT-THYRO](https://tarmic.in/product-vit-thyro.html): L-Tyrosine, Magnesium Oxide, Vitamin C, Zinc Sulphate, Vitamin B6, Sodium Selenate, Folic Acid and Vitamin B12 Tablets
