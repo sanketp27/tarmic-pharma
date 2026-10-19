@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 
 BASE_URL = "https://tarmic.in"
-EXCLUDED_PAGES = {"index.html", "404.html", "about.html", "contact.html"}
+EXCLUDED_STEMS = {"index", "404", "about", "contact"}
 SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 
 
@@ -15,7 +15,7 @@ def main():
     urls.extend(
         f"{BASE_URL}/{page.name}"
         for page in sorted(Path(__file__).parent.glob("*.html"))
-        if page.name not in EXCLUDED_PAGES
+        if page.stem not in EXCLUDED_STEMS
     )
 
     for url in urls:
