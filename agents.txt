@@ -1,7 +1,6 @@
 # agents.txt: guidance for AI agents and automated crawlers
 # Site: https://tarmic.in/
 # Operator: Tarmic Pharma Pvt. Ltd.
-# Contact: operations@tarmic.in
 
 User-agent: *
 Allow: /
@@ -16,4 +15,3 @@ Disallow: /404.html
 Sitemap: https://tarmic.in/sitemap.xml
 Catalogue: https://tarmic.in/tarmic-catalogue.pdf
 Summary: https://tarmic.in/llms.txt
-Contact: operations@tarmic.in
